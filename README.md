@@ -28,7 +28,7 @@ To run this project, you'll need the following libraries:
 
 
 ## Usage
-
+Use MinorDemo.ipynb file for ouput with analysis.
 
 This project can also be run directly in a Kaggle notebook. Follow these steps:
 
@@ -40,6 +40,7 @@ This project can also be run directly in a Kaggle notebook. Follow these steps:
 
 ## Architecture involved
 
+![image](https://github.com/user-attachments/assets/5c476217-08df-499a-b7ee-9e3741f7da57)
 
 
 
@@ -136,3 +137,8 @@ Execution and Display
     Execute the main flow: loading models, generating stories, analyzing them, and plotting results.
     Display all generated plots.
 ## Results
+![image](https://github.com/user-attachments/assets/1e5bf335-dfa3-442b-9a5b-afda71822a65)
+![image](https://github.com/user-attachments/assets/d816fc97-ac6d-4986-b576-a1602a265f6f)
+![image](https://github.com/user-attachments/assets/71f969a7-63cb-40ed-9ecb-c38e3cd696a7)
+
+
