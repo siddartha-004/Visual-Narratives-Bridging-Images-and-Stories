@@ -103,7 +103,7 @@ Caption Generation:
 Story Generation Setup
 
     Define an API key and headers for Hugging Face API access.
-    Create a function generate_story to generate stories using a specified model.
+    Create a function generate_story to generate stories using a specified model(falcon-7b-instruct).
     Define theme-based prompts for different story genres.
 
 Text Formatting and User Interaction
